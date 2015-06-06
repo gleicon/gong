@@ -34,7 +34,7 @@ Generate a self-signed SSL certificate (optional):
 	cd ssl
 	make
 
-Set up MySQL (both optional):
+Set up MySQL (optional):
 
 	sudo mysql < assets/files/database.sql
 
